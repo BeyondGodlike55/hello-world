@@ -2,6 +2,5 @@
 just a simple universal project to learn workflow of github
 
 hello people 
-gaurav here
-
-just wanted to be a greatest man alive.
+i am just started to use GitHub
+I am sure gonna be a great programmer soon.
